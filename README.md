@@ -1,4 +1,4 @@
-CoolBoo.sk
+CoolBoox
 =========
 
 Self hosted eBook reader stroage for centralised storage.
